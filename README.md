@@ -2,7 +2,7 @@
 
 ![test](https://user-images.githubusercontent.com/29557187/192019691-f1a70233-94cf-4371-b899-25a5565322b2.png)
 
-Projeto desenvolvido na Trybe para testar uma aplicação uma aplicação React que consome uma API sobre Pokemón.<br>
+Projeto desenvolvido na Trybe para testar uma aplicação uma aplicação que consome uma API sobre Pokemón.<br>
 A aplicação foi desenvolvida pela Trybe e eu fui responsável por realizar os testes seguindo os requisitos.
 
 ## Executando aplicação
