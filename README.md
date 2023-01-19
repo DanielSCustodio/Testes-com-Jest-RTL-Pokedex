@@ -20,7 +20,6 @@ A aplicação foi desenvolvida pela Trybe e eu fui responsável por realizar os 
     npm test
   ```
 
-
 # Habilidades
 
 * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
